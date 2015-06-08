@@ -14,6 +14,11 @@ namespace K2Field.K2NE.ServiceBroker.Constants
             public const string RetryProcess = "RetryProcessInstance";
         }
 
+        public static class Threadingtest
+        {
+            public const string RunThreads = "RunThreads";
+        }
+
         public static class ManagementWorklist
         {
             public const string GetWorklist = "GetWorklist";

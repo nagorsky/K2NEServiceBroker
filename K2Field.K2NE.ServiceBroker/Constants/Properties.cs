@@ -7,6 +7,15 @@ namespace K2Field.K2NE.ServiceBroker.Constants
 {
     public  static partial class Properties
     {
+
+        public static class Threadingtest
+        {
+            public const string ThreadCount = "ThreadCount";
+            public const string ItemCount = "ItemCount";
+            public const string ThreadId = "ThreadId";
+            public const string SleepTime = "SleepTime";
+
+        }
             public static class ErrorLog
             {
                 public const string Profile = "Profile";

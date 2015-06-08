@@ -95,6 +95,7 @@
     <Compile Include="ServiceObjects\OutOfOfficeSO.cs" />
     <Compile Include="ServiceObjects\ProcessInstanceManagementSO.cs" />
     <Compile Include="ServiceObjects\RoleSO.cs" />
+    <Compile Include="ServiceObjects\ThreadingTest.cs" />
     <Compile Include="ServiceObjects\WorkingHoursConfigurationSO.cs" />
     <Compile Include="ServiceObjects\WorklistSO.cs" />
   </ItemGroup>
